@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rodzina>
+	<czlowiek relacja="ja">
+		<imie>Rafał</imie>
+		<nazwisko>BBB</nazwisko>
+		<wiek>123</wiek>
+		<miasto>Warszawa</miasto>
+	</czlowiek>
+	<czlowiek relacja="siostra">
+		<imie>Anna</imie>
+		<nazwisko>AAA</nazwisko>
+		<wiek>13</wiek>
+		<miasto>KRK</miasto>	
+	</czlowiek>
+	<czlowiek relacja="corka">
+		<imie>Adam</imie>
+		<nazwisko>CCC</nazwisko>
+		<wiek>23</wiek>
+		<miasto>Lublin</miasto>		
+	</czlowiek>
+</rodzina>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rosliny>
+    <makowate>
+        <mak>
+            <gatunek>Mak alpejski</gatunek>
+            <gatunek>Mak lekarski</gatunek>
+            <gatunek>Mak piaskowy</gatunek>
+            <gatunek>Mak polny</gatunek>
+            <gatunek>Mak syberyjski</gatunek>
+            <gatunek>Mak wschodni</gatunek>
+            <jednoroczne>tak</jednoroczne>
+            <liscie>pierzastodzielne</liscie>
+            <owoce>wielonasienne torebki</owoce>
+        </mak>
+
+    </makowate>
+</rosliny>

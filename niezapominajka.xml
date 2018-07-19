@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rosliny>
+    <gatunki>
+        <gatunek>niezapominajka polna</gatunek>
+        <gatunek>niezapominajka alpejska</gatunek>
+        <gatunek>niezapominajka błotna</gatunek>
+    </gatunki>
+    <liscie>
+        <krotnosc>pojedyncze</krotnosc>
+        <typ>łodygowe siedzące</typ>
+    </liscie>
+    <owoce>
+        rozłupki trójgraniasto jajowate
+    </owoce>
+    <kwiaty>
+        <typ>rurkowotalerzykowate</typ>
+        <osklepki>jasnożółte</osklepki>
+    </kwiaty>
+
+</rosliny>

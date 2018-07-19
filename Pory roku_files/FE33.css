@@ -1,0 +1,55 @@
+body {
+    font-family: lato, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+#tresc {
+    margin-left: 350px;
+    margin-right: 20px;
+    padding-left: 10px;
+    border-left: 1px solid black;
+}
+#menu{
+    position: fixed;
+    top: 10px;
+    width: 300px;
+}
+#menu ul li{
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted gray;
+}
+a:hover{
+    color: white;
+    background-color: #ccc;
+
+}
+#stopka{
+    border-top: 1px solid black;
+    font-size: 11px;
+    text-align: center;
+    clear: both;
+}
+.ilustracja{
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+.ilustracja p{
+    text-align: center;
+}
+.wiersz{
+    font-style: italic;
+    font-family: 'Times New Roman', serif;
+    margin-left: 80px;
+    color: #483d8b
+}
